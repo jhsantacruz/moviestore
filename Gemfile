@@ -30,6 +30,10 @@ gem 'spring',        group: :development
 
 gem 'devise', '~> 3.4.0'
 
+# Redis
+gem 'redis', '~> 3.0.1'
+gem 'hiredis', '~> 0.4.5'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
